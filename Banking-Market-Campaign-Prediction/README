@@ -6,7 +6,7 @@ The primary objective of the project is likely to analyze the dataset and develo
 
 Steps Involved:
 Data Preprocessing:
-The project likely starts with data preprocessing steps, including handling missing values, encoding categorical variables, and possibly feature scaling or normalization.
+The project starts with data preprocessing steps, including handling missing values, encoding categorical variables, and possibly feature scaling or normalization.
 Exploratory Data Analysis (EDA):
 Exploratory data analysis is performed to gain insights into the dataset, understand the distributions of variables, identify correlations, and visualize relationships between features and the target variable.
 Feature Engineering:
@@ -16,6 +16,6 @@ Machine learning models are developed using techniques such as logistic regressi
 Model Evaluation:
 The models are evaluated using appropriate metrics such as accuracy, precision, recall, F1-score, or ROC-AUC to assess their performance and identify the best-performing model.
 Conclusion and Recommendations:
-The project likely concludes with a summary of the findings, insights gained from the analysis, and recommendations for the bank or relevant stakeholders based on the results of the machine learning model.
+The project concludes with a summary of the findings, insights gained from the analysis, and recommendations for the bank or relevant stakeholders based on the results of the machine learning model.
 Tools and Libraries Used:
 The project utilizes various Python libraries for data analysis and machine learning, including NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, and possibly others.
