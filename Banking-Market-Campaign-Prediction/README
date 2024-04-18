@@ -2,7 +2,7 @@ Dataset:
 The dataset used in this project is the "bank-additional-full.csv" dataset, which contains information related to a bank's marketing campaign, including features such as client demographics, contact details, campaign outcomes, and economic indicators.
 
 Objective:
-The primary objective of the project is likely to analyze the dataset and develop a machine learning model to predict a target variable, which could be related to the success of the marketing campaign or some other relevant outcome.
+The primary objective of the project is to analyze the dataset and develop a machine learning model to predict a target variable, which could be related to the success of the marketing campaign or some other relevant outcome.
 
 Steps Involved:
 Data Preprocessing:
